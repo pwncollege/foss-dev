@@ -16,6 +16,7 @@ Everything takes place in `Issues`.
 - [ ] Create a Fork of that GitHub project
 - [ ] Create a GitHub issue here **by Monday February 13, 2023 @ 00:00:00**
   - Title: `<user-name>/<repository-name> - <title description for feature>`
+    - `<user-name>/<repository-name>` should be for the primary repository, not your fork
   - Initial Post
     - Link to the original GitHub project
     - Link to your fork
