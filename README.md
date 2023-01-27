@@ -9,10 +9,19 @@ Everything takes place in `Issues`.
   - You must figure out how to build and run that project from source before finalizing your project selection
     - You're ideally looking for a `Dockerfile`, but otherwise a `Makefile`, etc.
   - Mirrors are fine
+  - Projects to consider (shoot for the moon):
+    - https://github.com/SerenityOS/serenity
+    - https://github.com/torvalds/linux
+    - https://github.com/chromium/chromium
+    - https://github.com/python/cpython
+    - https://github.com/moby/moby
 - [ ] Decide an Interesting Feature or Modification
   - Figure out an interesting feature or modification you want to make
   - This feature or modification should be either interesting or cool
   - This feature should take roughly 40 hours to implement all together
+    - Probably this will be hard for you to accurately estimate, and that is fine
+    - This will likely be difficult for you, and so even a very small feature will likely take you a very long time
+    - If you finish your feature early, extend that feature further, or add another feature
 - [ ] Create a Fork of that GitHub project
 - [ ] Create a GitHub issue here **by Monday February 13, 2023 @ 00:00:00**
   - Title: `<user-name>/<repository-name> - <title description for feature>`
@@ -24,9 +33,16 @@ Everything takes place in `Issues`.
     - Describe in a few sentences how you built the project to get a running copy
     - Describe in a few sentences the feature or modification you are going to make
 - [ ] Make Regular Commits and Write Stats Updates
-  - In your fork you created, make commits that move you towards implementing that feature.
-  - In your issue you created, write status updates about what you are doing.
-    - If you neglect this, I have no way to know that you did anything, and you will not receive honors credit
+  - In your fork you created, make commits that move you towards implementing that feature
+  - In your issue you created, in a few sentences as a comment, write status updates about what you are doing
+  - Status Update Timeline
+    - [ ] **Monday February 27, 2023 @ 00:00:00**
+    - [ ] **Monday March 13, 2023 @ 00:00:00**
+    - [ ] **Monday March 27, 2023 @ 00:00:00**
+    - [ ] **Monday April 10, 2023 @ 00:00:00**
+    - [ ] **Monday April 24, 2023 @ 00:00:00**
+  - It's not a major issue if your status updates are a little bit late, this is a rough outline
+  - If you make it hard for me to quickly understand that you are doing stuff, you will not receive honors credit
 - [ ] Create a YouTube video and link it in your GitHub issue **by Monday May 1, 2023 @ 00:00:00**
   - Demonstrate what the project did before you added your feature or modification
   - Show the project being built with your changes
