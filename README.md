@@ -1,7 +1,7 @@
 # foss-dev
 Modify Free and Open-Source Software Projects
 
-Everything takes place in `Issues`.
+Everything takes place in [Issues](https://github.com/pwncollege/foss-dev/issues).
 
 # Honors Contract Instructions (Spring 2023)
 - [ ] Find an Open Source Project on GitHub (1000+ stars)
